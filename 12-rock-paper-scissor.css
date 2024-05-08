@@ -1,0 +1,59 @@
+body{
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: arial;
+  font-weight: bold;
+}
+.title{
+  font-size:  30px;
+  font-weight: bold;
+}
+.move-icon{
+  height: 50px;
+}
+.move-button{
+  background-color: transparent;
+  border: 2px solid white;
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.result{
+margin-top : 50px;
+font-size: 25px;
+font-weight: bold;
+}
+.score{
+margin-top: 60px;
+}
+
+.reset-button,
+.js-auto-play{
+background-color: white;
+border: none;
+padding: 8px 15px;
+font-size: 15px;
+color: black;
+cursor: pointer;
+
+}
+ .js-reset-para{
+  display: inline;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+  padding-right: 20px;
+ 
+ }
+ .js-div{
+  margin-top: 20px;
+  background-color: rgb(31, 30, 30);
+  width: 400px;
+ }
+  .js-yn{
+    background-color: white;
+    border:none;
+    padding:8px 14px;
+  }
