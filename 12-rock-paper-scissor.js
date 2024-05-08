@@ -176,8 +176,8 @@ document.body.addEventListener('keydown',(event)=>{
     .innerHTML=`${result}`;  
 
     document.querySelector('.js_move')
-    .innerHTML=` you<img src="img/${playerMove}-emoji.png" class="move-icon">
-    <img src="img/${computerMove}-emoji.png" class="move-icon">computer`;
+    .innerHTML=` you<img src="${playerMove}-emoji.png" class="move-icon">
+    <img src="${computerMove}-emoji.png" class="move-icon">computer`;
 
     updateScoreElement();
   }
