@@ -9,13 +9,13 @@ body{
   font-weight: bold;
 }
 .move-icon{
-  height: 30px;
+  height: 45px;
 }
 .move-button{
   background-color: transparent;
   border: 2px solid white;
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   border-radius: 60px;
   margin-right: 10px;
   cursor: pointer;
